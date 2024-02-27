@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Graph">
+        <attr name="idGragh" format="integer"/>
+        <attr name="listeArc" format="integer"/>
+        <attr name="listeNoeud" format="integer"/>
+        <attr name="nonGraph" format="string"/>
+    </declare-styleable>
+</resources>
