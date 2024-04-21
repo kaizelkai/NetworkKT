@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NetworkKT</string>
+    <string name="navigation_drawer_open">Ouvrir la navigation</string>
+    <string name="navigation_drawer_close">Fermer la navigation</string>
 </resources>

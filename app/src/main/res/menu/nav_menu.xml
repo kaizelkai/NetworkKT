@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/reset_network"
+        android:title="Réinitialiser le réseau"/>
+    <item
+        android:id="@+id/save_network"
+        android:title="Sauvegarder le réseau dans la mémoire interne"/>
+    <item
+        android:id="@+id/display_saved_network"
+        android:title="Afficher les réseaux sauvegardés dans la mémoire interne"/>
+</menu>
